@@ -5,15 +5,15 @@ Marty ! Doc !
 
 6
 00:00:35,090 --> 00:00:38,210
-Mais qu'est ce qui arrive à la Doloréan ?
+Mais qu'est-ce qui arrive à la DeLorean ?
 
 7
 00:00:36,680 --> 00:00:41,150
-Rappelle toi, dans l'épisode 3 and a été écrasée par un train
+Rappelle-toi, dans l'épisode 3 elle a été écrasée par un train
 
 8
 00:00:38,210 --> 00:00:43,100
-Mais qu'est ce qui arrive à la Doloréan ?
+Mais qu'est ce qui arrive à la DeLorean ?
 
 9
 00:00:41,150 --> 00:00:44,239
@@ -25,7 +25,7 @@ le contrôle technique
 
 11
 00:00:44,239 --> 00:00:46,790
-et puis celle là elle à 120 km d'autonomie
+et puis celle-là elle a 120 km d'autonomie
 
 12
 00:00:46,430 --> 00:00:48,530
@@ -33,11 +33,11 @@ et puis celle là elle à 120 km d'autonomie
 
 13
 00:00:46,790 --> 00:00:52,670
-c'est largement suffisant qu'on voyage ... dans le temps ! héhé 
+c'est largement suffisant pour un voyage ... dans le temps ! héhé 
 
 14
 00:00:48,530 --> 00:00:54,170
-Mais qu'est ce que c'est que cette tennue ?
+Mais qu'est-ce que c'est que cette tenue ?
 
 15
 00:00:52,670 --> 00:00:55,430
@@ -49,7 +49,7 @@ il faut sauver le futur !
 
 17
 00:00:55,430 --> 00:01:00,320
-le futur ? Mais qu'est ce qui se passe dans le futur ?
+le futur ? Mais qu'est-ce qui se passe dans le futur ?
 
 18
 00:00:57,290 --> 00:01:01,640
@@ -61,7 +61,7 @@ Je reviens juste de 2042
 
 20
 00:01:01,640 --> 00:01:06,259
-par l'armé nucléaire 
+par l'arme nucléaire 
 quoi ?
 
 21
@@ -74,7 +74,7 @@ conception des processeurs informatiques
 
 23
 00:01:07,369 --> 00:01:11,869
-a permis à la corée du nord de hacker 
+a permis à la Corée du Nord de hacker 
 
 24
 00:01:09,890 --> 00:01:12,830
@@ -90,7 +90,7 @@ et en 2022 BOOOM
 
 27
 00:01:18,320 --> 00:01:21,200
-c'est là que Trump pour son deuxième mandat a riposté 
+c'est là que Trump pour son 2e mandat a riposté 
 
 28
 00:01:20,539 --> 00:01:24,530
@@ -102,7 +102,7 @@ enfin bref, il reste plus rien
 
 30
 00:01:24,530 --> 00:01:26,869
-mais qu'est ce qu'on peut faire ?
+mais qu'est-ce qu'on peut faire ?
 
 31
 00:01:25,070 --> 00:01:28,429
@@ -110,11 +110,11 @@ il faut traiter ce problème à la source
 
 32
 00:01:26,869 --> 00:01:31,220
-et empêcher ce bug est introduite dans les processeurs
+et empêcher ce bug d' être introduit dans les processeurs
 
 33
 00:01:28,429 --> 00:01:33,950
-mais comment ?
+Mais comment ?
 
 34
 00:01:31,220 --> 00:01:36,259
@@ -122,11 +122,11 @@ Ce bug qui a tout déclenché a été introduit en 1988
 
 35
 00:01:33,950 --> 00:01:37,820
-en 1988 !?
+En 1988 !?
 
 36
 00:01:36,259 --> 00:01:39,829
-oui à cause de la compatibilité
+Oui à cause de la compatibilité
 
 37
 00:01:37,820 --> 00:01:41,329
@@ -151,7 +151,7 @@ en 1988
 42
 00:01:47,119 --> 00:01:51,740
 et c'est là qu'il faut intervenir 
-c'est vous le Doc, Doc
+C'est vous le Doc, Doc
 
 43
 00:01:49,009 --> 00:01:53,210
@@ -215,7 +215,7 @@ Le convecteur spatio-temporel va
 
 58
 00:02:20,870 --> 00:02:24,890
-nous ramener en 1988. je le programme
+nous ramener en 1988. Je le programme
 
 59
 00:02:23,090 --> 00:02:28,069
@@ -231,7 +231,7 @@ mettons notre ceinture !
 
 62
 00:02:30,819 --> 00:02:34,120
-mais pas besoin de sécurité 
+Mais pas besoin de sécurité Marty!
 
 63
 00:02:33,500 --> 00:02:48,790
@@ -253,7 +253,7 @@ Mark Zuckerberg et moi c'est Linus Torvalds
 
 67
 00:02:54,680 --> 00:03:03,280
-ça fait 50 francs poru les places
+ça fait 50 francs pour les places
 
 68
 00:03:01,970 --> 00:03:10,310
