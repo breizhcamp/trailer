@@ -1,86 +1,72 @@
-1
-00:00:03,280 --> 00:00:06,470
-[Musique]
-
-2
-00:00:04,470 --> 00:00:06,470
-oh
-
-3
-00:00:11,500 --> 00:00:14,730
-à pau
-
-4
-00:00:16,900 --> 00:00:19,989
-[Musique]
 
 5
 00:00:32,680 --> 00:00:36,680
-bartok médoc
+Marty ! Doc !
 
 6
 00:00:35,090 --> 00:00:38,210
-qu'est ce qui arrive est laborieux mais
+Mais qu'est ce qui arrive à la Doloréan ?
 
 7
 00:00:36,680 --> 00:00:41,150
-rappelle toi dans l'épisode 3 and a été
+Rappelle toi, dans l'épisode 3 and a été écrasée par un train
 
 8
 00:00:38,210 --> 00:00:43,100
-écrasé par un train mais qu'est ce qui
+Mais qu'est ce qui arrive à la Doloréan ?
 
 9
 00:00:41,150 --> 00:00:44,239
-arrivait à la doublure et âme au futur
+Ah, elle ne passait plus
 
 10
 00:00:43,100 --> 00:00:46,430
-ça qui a passé plus contrôle technique
+le contrôle technique
 
 11
 00:00:44,239 --> 00:00:46,790
-et puis celle là elle à 120 km
+et puis celle là elle à 120 km d'autonomie
 
 12
 00:00:46,430 --> 00:00:48,530
-d'autonomie
+
 
 13
 00:00:46,790 --> 00:00:52,670
-c'est largement suffisant qu'on voyage
+c'est largement suffisant qu'on voyage ... dans le temps ! héhé 
 
 14
 00:00:48,530 --> 00:00:54,170
-dans le temps jeje rennais s'est tenu à
+Mais qu'est ce que c'est que cette tennue ?
 
 15
 00:00:52,670 --> 00:00:55,430
-huis c'est vrai que marty il faut
+Ah oui, c'est vrai : Marty, 
 
 16
 00:00:54,170 --> 00:00:57,290
-preneur et sauver le futur
+il faut sauver le futur !
 
 17
 00:00:55,430 --> 00:01:00,320
-le futur mais qu'est ce qui se passe
+le futur ? Mais qu'est ce qui se passe dans le futur ?
 
 18
 00:00:57,290 --> 00:01:01,640
-dans le futur je reviens juste de 2042 à
+Je reviens juste de 2042
 
 19
 00:01:00,320 --> 00:01:04,210
-une époque où la terre a été dévastée
+à une époque où la terre a été dévastée
 
 20
 00:01:01,640 --> 00:01:06,259
-par l'armé nucléaire quoi
+par l'armé nucléaire 
+quoi ?
 
 21
 00:01:04,210 --> 00:01:07,369
-oui il figure toi qu'un bug dans la
+oui, figure toi qu'un bug dans la
 
 22
 00:01:06,259 --> 00:01:09,890
@@ -88,7 +74,7 @@ conception des processeurs informatiques
 
 23
 00:01:07,369 --> 00:01:11,869
-a permis à la corée du nord 2 acquis et
+a permis à la corée du nord de hacker 
 
 24
 00:01:09,890 --> 00:01:12,830
@@ -96,27 +82,27 @@ le système de défense chinois qui
 
 25
 00:01:11,869 --> 00:01:18,320
-tournait encore ce qu'on a dit ressentir
+tournait encore sur une version pirate de Windows XP
 
 26
 00:01:12,830 --> 00:01:20,539
-à l'an 2022 et c'est là que trump pour
+et en 2022 BOOOM 
 
 27
 00:01:18,320 --> 00:01:21,200
-son deuxième mandat a riposté et c'est
+c'est là que Trump pour son deuxième mandat a riposté 
 
 28
 00:01:20,539 --> 00:01:24,530
-là que poutine
+et Poutine ...
 
 29
 00:01:21,200 --> 00:01:25,070
-enfin bon il reste plus rien mais qu'est
+enfin bref, il reste plus rien 
 
 30
 00:01:24,530 --> 00:01:26,869
-ce qu'on peut faire
+mais qu'est ce qu'on peut faire ?
 
 31
 00:01:25,070 --> 00:01:28,429
@@ -124,19 +110,19 @@ il faut traiter ce problème à la source
 
 32
 00:01:26,869 --> 00:01:31,220
-et empêcher ce bug est introduite dans
+et empêcher ce bug est introduite dans les processeurs
 
 33
 00:01:28,429 --> 00:01:33,950
-les processeurs mais comment ce mode qui
+mais comment ?
 
 34
 00:01:31,220 --> 00:01:36,259
-a tout déclenché a été introduit en 1988
+Ce bug qui a tout déclenché a été introduit en 1988
 
 35
 00:01:33,950 --> 00:01:37,820
-en 1988
+en 1988 !?
 
 36
 00:01:36,259 --> 00:01:39,829
@@ -152,31 +138,32 @@ importance est encore présent dans les
 
 39
 00:01:41,329 --> 00:01:45,049
-processeurs de 2022 l'architecte qui l'a
+processeurs de 2022. L'architecte qui l'a
 
 40
 00:01:43,820 --> 00:01:47,119
-introduit par mégarde travail et de
+introduit par mégarde travaillait dessus
 
 41
 00:01:45,049 --> 00:01:49,009
-sueur 1990 et c'est là qu'il faut
+en 1988 
 
 42
 00:01:47,119 --> 00:01:51,740
-intervenir c'est vous le donne des gains
+et c'est là qu'il faut intervenir 
+c'est vous le Doc, Doc
 
 43
 00:01:49,009 --> 00:01:53,210
-mais on retrouve cet architecte 1 il a
+mais on le trouve où cet "architecte" ?
 
 44
 00:01:51,740 --> 00:01:53,799
-fait une conférence aux restantes pas
+il a fait une conférence au BreizhCamp
 
 45
 00:01:53,210 --> 00:01:56,780
-loin d'ici
+pas loin d'ici
 
 46
 00:01:53,799 --> 00:01:58,100
@@ -184,83 +171,84 @@ enfin pas loin dans l'espace mais dans
 
 47
 00:01:56,780 --> 00:01:59,750
-le temps c'était il ya trente ans enfin
+le temps c'était il y a trente ans 
 
 48
 00:01:58,100 --> 00:02:00,680
-bon les distances dans le continuum
+enfin bon les distances 
 
 49
 00:01:59,750 --> 00:02:01,490
-espace-temps ce qu'ils ne soient un
+dans le continuum espace-temps 
 
 50
 00:02:00,680 --> 00:02:03,799
-petit peu abstraite
+sont une notion un petit peu abstraite
 
 51
 00:02:01,490 --> 00:02:06,890
-c'est vous le dites donc un pas de temps
+Si vous le dites Doc. 
 
 52
 00:02:03,799 --> 00:02:09,950
-à perdre tiens enfile ses affaires de
+Pas de temps à perdre, tiens enfile 
 
 53
 00:02:06,890 --> 00:02:13,010
-1988 et moi je retire ça
+ces affaires de 1988 et moi je retire ça
 
 54
 00:02:09,950 --> 00:02:14,269
-allez des bijoux enfin on pourrait très
+allez dépéchons nous. 
 
 55
 00:02:13,010 --> 00:02:17,750
-bien ne pas dépêcher mais du coup le
+enfin on pourrait très bien ne pas dépêcher 
 
 56
 00:02:14,269 --> 00:02:20,870
-film n'auront qu'à rythme doc mondiale
+mais le film n'aurait aucun rythme !
 
 57
 00:02:17,750 --> 00:02:23,090
-oui le convecteur spatio-temporel va
+Le convecteur spatio-temporel va
 
 58
 00:02:20,870 --> 00:02:24,890
-nous ramener en 1988 je le prouve à mon
+nous ramener en 1988. je le programme
 
 59
 00:02:23,090 --> 00:02:28,069
-arrivée juste au premier jour de bras
+pour arriver juste au premier jour du BreizhCamp
 
 60
 00:02:24,890 --> 00:02:30,819
-quand le 24 mars 1988 mettons notre
+le 28 mars 1988
 
 61
 00:02:28,069 --> 00:02:33,500
-ceinture set up
+mettons notre ceinture !
 
 62
 00:02:30,819 --> 00:02:34,120
-mais pas besoin de sécurité avertit là
+mais pas besoin de sécurité 
 
 63
 00:02:33,500 --> 00:02:48,790
-où nous allons
+là où nous allons
+il n'y a pas besoin d'être root !
 
 64
 00:02:34,120 --> 00:02:50,510
-il n'y a pas besoin d'être route bonjour
+Bonjour
 
 65
 00:02:48,790 --> 00:02:54,680
-est-ce que je parle au nom pour les
+est-ce que je peux avoir vos noms pour les badges ?
 
 66
 00:02:50,510 --> 00:03:01,970
-pages son père mark zuckerberg et moi
+son père mark zuckerberg et moi
 
 67
 00:02:54,680 --> 00:03:03,280
