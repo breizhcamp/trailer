@@ -278,11 +278,11 @@ Oh c'est de la haute définition !
 
 73
 00:03:15,590 --> 00:03:21,859
-C'est du super VGA, ça monte à
+C'est du Super VGA, ça monte à
 
 74
 00:03:18,530 --> 00:03:23,750
-1024 par 768 en 16 couleurs 
+1024x768 en 16 couleurs 
 
 75
 00:03:21,859 --> 00:03:26,959
@@ -295,16 +295,16 @@ pas tout à fait
 
 77
 00:03:26,959 --> 00:03:32,000
-Bonjour monsieur ! 
+Bonjour Monsieur ! 
 
 78
 00:03:30,290 --> 00:03:33,350
-Est ce que vous êtes un développeur ?
+Est-ce que vous êtes un développeur ?
 Hein ?
 
 79
 00:03:32,000 --> 00:03:35,209
-Est ce que vous connaissez notre
+Est-ce que vous connaissez notre
 
 80
 00:03:33,350 --> 00:03:37,010
@@ -336,7 +336,7 @@ On faisait vraiment n'importe quoi dans les années 80
 
 87
 00:03:47,160 --> 00:03:57,450
-mais ils déconnent ce jeux !
+mais il déconne ce jeu !
 
 88
 00:03:55,290 --> 00:03:59,970
@@ -352,8 +352,8 @@ ou testeur de jeux vidéo
 
 91
 00:04:08,459 --> 00:04:11,790
-Mc Fly !!!
-t'as réparé la bôme street fighter de la cafétaria ?
+McFly !!!
+t'as réparé la borne Street Fighter de la cafétaria ?
 
 92
 00:04:09,740 --> 00:04:13,110
@@ -361,7 +361,7 @@ Pas encore Biff, c'est compliqué tu sais
 
 93
 00:04:11,790 --> 00:04:14,760
-et puis vu que tu as ballancé du Coca dessus ...
+et puis vu que tu as balancé du Coca dessus ...
 
 94
 00:04:13,110 --> 00:04:16,140
@@ -373,13 +373,13 @@ pour m'entraîner pour le tournoi moi
 
 96
 00:04:16,140 --> 00:04:24,000
-si tu répare pas la borne ?
+si tu répares pas la borne ?
 je m'en occupe aujourd'hui, promis 
 
 97
 00:04:18,060 --> 00:04:25,800
 ... Papa est un Nerd !
-Ah Matry, te voilà
+Ah Marty, te voilà
 
 98
 00:04:24,000 --> 00:04:27,540
@@ -387,11 +387,11 @@ j'aurais voulu t'épargner ça mais bon
 
 99
 00:04:25,800 --> 00:04:29,060
-qu'est ce que tu veux... et puis d'ici 2018
+qu'est-ce que tu veux... et puis d'ici 2018
 
 100
 00:04:27,540 --> 00:04:31,770
-est un geek ça sera devenu à la mode ... bizarrement
+être un geek ça sera devenu à la mode ... bizarrement
 
 101
 00:04:29,060 --> 00:04:35,280
@@ -408,7 +408,7 @@ cache unifiée nous allons pousser
 
 104
 00:04:37,260 --> 00:04:43,610
-larchitecture 80x386 bien au-delà de ses
+l'architecture 80x386 bien au-delà de ses
 
 105
 00:04:41,220 --> 00:04:54,000
@@ -416,7 +416,7 @@ capacités initiales
 
 106
 00:04:43,610 --> 00:04:55,890
-nous arrivons quasiment a douber la vitesse d'exécution
+nous arrivons quasiment a doubler la vitesse d'exécution
 
 107
 00:04:54,000 --> 00:04:58,410
@@ -432,11 +432,11 @@ Bonjour, intéressante cette présentation. Je me demande jusqu'où
 
 110
 00:04:59,880 --> 00:05:04,950
-vous irez avec ses processeurs ... nouvelle génération
+vous irez avec ces processeurs ... nouvelle génération
 
 111
 00:05:01,680 --> 00:05:07,110
-à quelle fréquence tourne t-il ?
+à quelle fréquence tournent-il ?
 
 112
 00:05:04,950 --> 00:05:11,190
@@ -449,7 +449,7 @@ intéressant ...
 
 114
 00:05:11,190 --> 00:05:15,360
-et avec 8 ko de cache intègre 
+et avec 8 ko de cache intégré 
 
 115
 00:05:14,490 --> 00:05:17,250
@@ -461,7 +461,7 @@ nous allons avoir accès à des ressources
 
 117
 00:05:17,250 --> 00:05:21,520
-gigantesques ! imaginez:
+gigantesques ! Imaginez:
 
 118
 00:05:20,110 --> 00:05:26,140
@@ -495,7 +495,7 @@ c'est fait Marty, on peut y aller
 
 125
 00:05:41,840 --> 00:05:45,590
-McFly, McFly qu'est ce que tu fais, tu apprends à programmer 
+McFly, McFly qu'est-ce que tu fais, tu apprends à programmer 
 
 126
 00:05:44,090 --> 00:05:49,000
@@ -507,7 +507,7 @@ C'est que j'ai pas ...
 
 128
 00:05:49,000 --> 00:05:52,550
-J'espère qu'on a pas trop modifié le continuum espace-temps
+J'espère qu'on n'a pas trop modifié le continuum espace-temps
 
 129
 00:05:50,539 --> 00:05:54,289
@@ -515,7 +515,7 @@ McFly, McFly faut réfléchir !
 
 130
 00:05:52,550 --> 00:05:55,430
-qu'est ce que tu crois qu'il va se passer 
+qu'est-ce que tu crois qu'il va se passer 
 
 131
 00:05:54,289 --> 00:05:56,870
@@ -523,11 +523,11 @@ si je vais au concours sans
 
 132
 00:05:55,430 --> 00:05:58,580
-m'être entraînés avant ? tu veux que je passe pour un gland
+m'être entraîné avant ? Tu veux que je passe pour un gland
 
 133
 00:05:56,870 --> 00:06:00,650
-tu veux que fasses pour un bouffon au concours
+tu veux que je passe pour un bouffon au concours
 
 134
 00:05:58,580 --> 00:06:01,909
@@ -540,7 +540,7 @@ comment tu peux penser une chose pareille ?
 
 136
 00:06:01,909 --> 00:06:07,490
-Monsieur, vous a fait tomber ça
+Monsieur, vous avez fait tomber ça
 
 137
 00:06:04,430 --> 00:06:10,279
@@ -549,11 +549,11 @@ Excellent jeu, vous allez bien vous éclater
 
 138
 00:06:07,490 --> 00:06:11,810
-Hey, j'ai aller m'entrainer
+Hey, je vais aller m'entrainer
 
 139
 00:06:10,279 --> 00:06:13,240
-à ça en attendant tu répares
+ha ça en attendant tu répares
 
 140
 00:06:11,810 --> 00:06:16,699
@@ -561,19 +561,19 @@ la borne d'arcade
 
 141
 00:06:13,240 --> 00:06:19,639
-ok je m'y met dés que possible
+ok je m'y mets dès que possible
 
 142
 00:06:16,699 --> 00:06:22,810
-Hey McFly, y'a ton lasset qu'est défait
+Hey McFly, y'a ton lacet qu'est défait
 
 143
 00:06:19,639 --> 00:06:22,810
-T'es vraiment une tâche McFly 
+T'es vraiment une tache McFly 
 
 144
 00:06:23,030 --> 00:06:27,380
-dites Doc, le gars de chez intel 
+dites Doc, le gars de chez Intel 
 
 145
 00:06:25,310 --> 00:06:36,710
@@ -582,6 +582,6 @@ Mais enfin Marty
 
 146
 00:06:27,380 --> 00:06:38,030
-Les meilleurs speaker sont tous au BreizhCamp !
+Les meilleurs speakers sont tous au BreizhCamp !
 
 
