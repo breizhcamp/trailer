@@ -248,71 +248,75 @@ est-ce que je peux avoir vos noms pour les badges ?
 
 66
 00:02:50,510 --> 00:03:01,970
-son père mark zuckerberg et moi
+Mar...
+Mark Zuckerberg et moi c'est Linus Torvalds
 
 67
 00:02:54,680 --> 00:03:03,280
-c'est linus torvald 150 francs je crois
+ça fait 50 francs poru les places
 
 68
 00:03:01,970 --> 00:03:10,310
-que j'ai fait une petite erreur au
+Ah, je crois que j'ai fait une petite erreur
+Oh c'est pas grave
 
 69
 00:03:03,280 --> 00:03:11,420
-support à arak à l'excitation no 2 on
+Ah, quelle excitation !
 
 70
 00:03:10,310 --> 00:03:12,349
-repère les lieux discrètement on se
+On repère les lieux discrètement 
 
 71
 00:03:11,420 --> 00:03:15,590
-retrouve ici dans deux minutes
+on se retrouve ici dans deux minutes
 
 72
 00:03:12,349 --> 00:03:18,530
-hockey sur glace et la haute définition
+Oh c'est de la haute définition !
 
 73
 00:03:15,590 --> 00:03:21,859
-non c'est du super mesure ça monte à
+C'est du super VGA, ça monte à
 
 74
 00:03:18,530 --> 00:03:23,750
-1024 par 768 en 16 couleurs et c'est
+1024 par 768 en 16 couleurs 
 
 75
 00:03:21,859 --> 00:03:26,959
-vraiment l'idée d'en faire un poste de
+et c'est vraiment l'idéal pour faire un poste de travail graphique 
 
 76
 00:03:23,750 --> 00:03:30,290
-travail graphique c'est gratuit pas tout
+c'est gratuit ?
+pas tout à fait
 
 77
 00:03:26,959 --> 00:03:32,000
-à fait bonjour monsieur bonjour est ce
+Bonjour monsieur ! 
 
 78
 00:03:30,290 --> 00:03:33,350
-que vous êtes un développeur ou 1
+Est ce que vous êtes un développeur ?
+Hein ?
 
 79
 00:03:32,000 --> 00:03:35,209
-est ce que vous connaissez notre
+Est ce que vous connaissez notre
 
 80
 00:03:33,350 --> 00:03:37,010
-environnement de ce débat c'est un
+environnement DosDEV ?
 
 81
 00:03:35,209 --> 00:03:39,709
-environnement qui lie à une productivité
+C'est un environnement qui a une productivité
 
 82
 00:03:37,010 --> 00:03:41,610
-sans précédent dix fois plus rapide que
+sans précédent : dix fois plus rapide que
 
 83
 00:03:39,709 --> 00:03:43,740
@@ -320,43 +324,44 @@ votre environnement habituel
 
 84
 00:03:41,610 --> 00:03:45,140
-vous offre la plaque et n'hésitez pas à
+Je vous offre la plaquette 
 
 85
 00:03:43,740 --> 00:03:47,160
-l'essayer 1
+n'hésitez pas à l'essayer
 
 86
 00:03:45,140 --> 00:03:55,290
-c'est vraiment n'importe quoi dans les
+On faisait vraiment n'importe quoi dans les années 80
 
 87
 00:03:47,160 --> 00:03:57,450
-années 80 mais ils déconnent de
+mais ils déconnent ce jeux !
 
 88
 00:03:55,290 --> 00:03:59,970
-partouzes jeu ils ont pris de la drogue
+ils ont pris de la drogue pour le faire ou quoi
 
 89
 00:03:57,450 --> 00:04:08,459
-pour le faire ou quoi ya pas devenir fou
+y'a de quoi devenir fou !
 
 90
 00:03:59,970 --> 00:04:09,740
-t'es testeur de jeux vidéo va réparer la
+ou testeur de jeux vidéo 
 
 91
 00:04:08,459 --> 00:04:11,790
-bôme street fighter de la cafétaria
+Mc Fly !!!
+t'as réparé la bôme street fighter de la cafétaria ?
 
 92
 00:04:09,740 --> 00:04:13,110
-encore c'est compliqué tu sais et puis
+Pas encore Biff, c'est compliqué tu sais 
 
 93
 00:04:11,790 --> 00:04:14,760
-vu que ta balle on s'est dit que kd su
+et puis vu que tu as ballancé du Coca dessus ...
 
 94
 00:04:13,110 --> 00:04:16,140
@@ -364,35 +369,38 @@ et comment tu crois que je vais faire
 
 95
 00:04:14,760 --> 00:04:18,060
-pour m'entraîner pour le tournoi moi si
+pour m'entraîner pour le tournoi moi 
 
 96
 00:04:16,140 --> 00:04:24,000
-tu réponds pas je m'en occupe
+si tu répare pas la borne ?
+je m'en occupe aujourd'hui, promis 
 
 97
 00:04:18,060 --> 00:04:25,800
-aujourd'hui promis à martine voilà oui
+... Papa est un Nerd !
+Ah Matry, te voilà
 
 98
 00:04:24,000 --> 00:04:27,540
-j'aurais voulu épargner ça mais bon
+j'aurais voulu t'épargner ça mais bon
 
 99
 00:04:25,800 --> 00:04:29,060
-qu'est ce que tu veux et puis d'ici 2018
+qu'est ce que tu veux... et puis d'ici 2018
 
 100
 00:04:27,540 --> 00:04:31,770
-est un geek ça sera devenu à la mode
+est un geek ça sera devenu à la mode ... bizarrement
 
 101
 00:04:29,060 --> 00:04:35,280
-bizarrement c'est osé d'un coup croyons
+Si vous le dites Doc
+Allez on y va
 
 102
 00:04:31,770 --> 00:04:37,260
-dur et avec cette toute nouvelle mémoire
+Et avec cette toute nouvelle mémoire
 
 103
 00:04:35,280 --> 00:04:41,220
@@ -400,7 +408,7 @@ cache unifiée nous allons pousser
 
 104
 00:04:37,260 --> 00:04:43,610
-larchitecture 80 386 bien au-delà de ses
+larchitecture 80x386 bien au-delà de ses
 
 105
 00:04:41,220 --> 00:04:54,000
@@ -408,43 +416,44 @@ capacités initiales
 
 106
 00:04:43,610 --> 00:04:55,890
-nous allons quasiment adoubée des
+nous arrivons quasiment a douber la vitesse d'exécution
 
 107
 00:04:54,000 --> 00:04:58,410
-questions pourtant censée corriger ces
+va lui poser des questions 
 
 108
 00:04:55,890 --> 00:04:59,880
-documents bonjour à tous à votre
+pendant ce temps je vais corriger ses documents 
 
 109
 00:04:58,410 --> 00:05:01,680
-présentation je me demande jusqu'où vous
+Bonjour, intéressante cette présentation. Je me demande jusqu'où 
 
 110
 00:04:59,880 --> 00:05:04,950
-irez avec ses processeurs nouvelle
+vous irez avec ses processeurs ... nouvelle génération
 
 111
 00:05:01,680 --> 00:05:07,110
-génération avec un flottant de 10,25
+à quelle fréquence tourne t-il ?
 
 112
 00:05:04,950 --> 00:05:11,190
-mégahertz et on a même une version en
+25 mégahertz ! et on a même une version en
 
 113
 00:05:07,110 --> 00:05:14,490
-laboratoire 33 mégahertz intéressant oui
+laboratoire à 33 mégahertz 
+intéressant ... 
 
 114
 00:05:11,190 --> 00:05:15,360
-il y avait 8 ko de cache intègre et son
+et avec 8 ko de cache intègre 
 
 115
 00:05:14,490 --> 00:05:17,250
-bus 32 bits
+et son bus 32 bits
 
 116
 00:05:15,360 --> 00:05:20,110
@@ -452,15 +461,16 @@ nous allons avoir accès à des ressources
 
 117
 00:05:17,250 --> 00:05:21,520
-gigantesques imaginer
+gigantesques ! imaginez:
 
 118
 00:05:20,110 --> 00:05:26,140
-on ira peut-être même au-delà de l'année
+on ira peut-être même au-delà de la limite
 
 119
 00:05:21,520 --> 00:05:27,880
-des 640 ko il ne souffre pas trop
+des 640 ko !
+et il ne chauffe pas trop ?
 
 120
 00:05:26,140 --> 00:05:30,220
@@ -468,189 +478,110 @@ c'est vrai qu'avec sa finesse de gravure
 
 121
 00:05:27,880 --> 00:05:32,560
-à seulement à micron on a quelques
+à seulement 1 micron, on a quelques
 
 122
 00:05:30,220 --> 00:05:36,860
-soucis on cherche une autre solution à
+soucis. On cherche une autre solution à
 
 123
 00:05:32,560 --> 00:05:41,840
-base de radiateur d'accord merci
+base de radiateur...
+d'accord, merci
 
 124
 00:05:36,860 --> 00:05:44,090
-c'est approprié mais qu'est ce que tu
+c'est fait Marty, on peut y aller
 
 125
 00:05:41,840 --> 00:05:45,590
-fais là tu apprends un programme et t'es
+McFly, McFly qu'est ce que tu fais, tu apprends à programmer 
 
 126
 00:05:44,090 --> 00:05:49,000
-pas en train de réparer la borne et que
+T'es pas en train de réparer la borne ?
 
 127
 00:05:45,590 --> 00:05:50,539
-j'ai pas taper un coup au millefeuille
+C'est que j'ai pas ...
 
 128
 00:05:49,000 --> 00:05:52,550
-j'espère qu'on n'a pas trop modifier
+J'espère qu'on a pas trop modifié le continuum espace-temps
 
 129
 00:05:50,539 --> 00:05:54,289
-pour tout comme espace temps là il mcfly
+McFly, McFly faut réfléchir !
 
 130
 00:05:52,550 --> 00:05:55,430
-pour réfléchir mais si tu crois qu'il va
+qu'est ce que tu crois qu'il va se passer 
 
 131
 00:05:54,289 --> 00:05:56,870
-se passer si je vais au concours sans
+si je vais au concours sans
 
 132
 00:05:55,430 --> 00:05:58,580
-être entraînés avant que je passe pour
+m'être entraînés avant ? tu veux que je passe pour un gland
 
 133
 00:05:56,870 --> 00:06:00,650
-un gland c'est ça tu te fasses pour un
+tu veux que fasses pour un bouffon au concours
 
 134
 00:05:58,580 --> 00:06:01,909
-bouffon concours c'est ça et bien sûr
+c'est ça ?
+Mais bien sûr que non, Biff
 
 135
 00:06:00,650 --> 00:06:04,430
-que non vivent comment tu peux penser
+comment tu peux penser une chose pareille ?
 
 136
 00:06:01,909 --> 00:06:07,490
-une chose pareille monsieur vous a fait
+Monsieur, vous a fait tomber ça
 
 137
 00:06:04,430 --> 00:06:10,279
-tomber sa merci un excellent jeu vous
+Ah merci.
+Excellent jeu, vous allez bien vous éclater
 
 138
 00:06:07,490 --> 00:06:11,810
-allez bien vous éclater et j'allais
+Hey, j'ai aller m'entrainer
 
 139
 00:06:10,279 --> 00:06:13,240
-m'entraîner à ça en attendant tu
+à ça en attendant tu répares
 
 140
 00:06:11,810 --> 00:06:16,699
-aimerais par la borne d'arcade
+la borne d'arcade
 
 141
 00:06:13,240 --> 00:06:19,639
-ok je me mettais que possible ok thomas
+ok je m'y met dés que possible
 
 142
 00:06:16,699 --> 00:06:22,810
-klein y at on la fait qu'aider faire tu
+Hey McFly, y'a ton lasset qu'est défait
 
 143
 00:06:19,639 --> 00:06:22,810
-veux en aucune tâche ou fla
+T'es vraiment une tâche McFly 
 
 144
 00:06:23,030 --> 00:06:27,380
-dit doc le guette chez intel comme sa
+dites Doc, le gars de chez intel 
 
 145
 00:06:25,310 --> 00:06:36,710
-vie qui se risque enfin partie les
+comment vous saviez qu'il serait au BreizhCamp ?
+Mais enfin Marty
 
 146
 00:06:27,380 --> 00:06:38,030
-meilleurs speaker 112 heureusement je le
+Les meilleurs speaker sont tous au BreizhCamp !
 
-147
-00:06:36,710 --> 00:06:39,290
-programme s'appuie sur des boutons
-
-148
-00:06:38,030 --> 00:06:40,940
-complètement au hasard et ça fait
-
-149
-00:06:39,290 --> 00:06:41,210
-flipper sa pige des trucs sur les
-
-150
-00:06:40,940 --> 00:06:42,770
-comptes
-
-151
-00:06:41,210 --> 00:06:47,200
-on est content on y avoir la trouille à
-
-152
-00:06:42,770 --> 00:06:47,200
-tout à l'heure hockey canada
-
-153
-00:06:49,660 --> 00:07:00,260
-on y va tous avec toi j'ai développé
-
-154
-00:06:57,020 --> 00:07:06,260
-différents pupitres sans voix de la pâte
-
-155
-00:07:00,260 --> 00:07:07,940
-et oui et quand on va arriver
-
-156
-00:07:06,260 --> 00:07:11,020
-prochainement savate d'honneur
-
-157
-00:07:07,940 --> 00:07:11,020
-exactement la même chose
-
-158
-00:07:13,040 --> 00:07:26,319
-[Musique]
-
-159
-00:07:28,480 --> 00:07:32,849
-lui
-
-160
-00:07:29,720 --> 00:07:32,849
-[Musique]
-
-161
-00:07:33,150 --> 00:07:35,900
-on
-
-162
-00:07:34,170 --> 00:07:37,970
-[Musique]
-
-163
-00:07:35,900 --> 00:07:39,620
-l'aïe mcpike pour réfléchir un peu
-
-164
-00:07:37,970 --> 00:07:41,060
-qu'est ce tu crois qu'il va se passer si
-
-165
-00:07:39,620 --> 00:07:44,440
-je vois concours et que j'ai pas pu
-
-166
-00:07:41,060 --> 00:07:44,440
-m'entraîner avant ce seuil
-
-167
-00:07:46,860 --> 00:07:54,390
-[Musique]
 
