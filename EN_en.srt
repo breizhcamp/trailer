@@ -9,7 +9,7 @@ What happened to the DeLorean ?
 
 7
 00:00:36,680 --> 00:00:41,150
-Remember, at the end of BTTF 3 it has been crushed by a train
+Remember, at the end of BTTF 3 it was crushed by a train?
 
 8
 00:00:38,210 --> 00:00:43,100
@@ -17,122 +17,118 @@ What happened to the DeLorean ?
 
 9
 00:00:41,150 --> 00:00:44,239
-It didn't passed technical inspection anymore
+It didn't pass technical inspection anymore.
 
 10
 00:00:43,100 --> 00:00:46,430
 
-
 11
 00:00:44,239 --> 00:00:46,790
-and this one can drive up to 120 km
+This one can drive up to 120 km.
 
 12
 00:00:46,430 --> 00:00:48,530
 
-
 13
 00:00:46,790 --> 00:00:52,670
-it's way enough when one travel ... in time !
+it's way fast enough when one travels...in time !
 
 14
 00:00:48,530 --> 00:00:54,170
-But, why this outfit ?
+But, why this outfit?
 
 15
 00:00:52,670 --> 00:00:55,430
-Oh damn, you're right : Marty, 
+Oh damn, you're right!
 
 16
 00:00:54,170 --> 00:00:57,290
-We have to fix the future !
+Marty, we have to fix the future !
 
 17
 00:00:55,430 --> 00:01:00,320
-Future ? What's up with future ?
+Future? What's up with the future ?
 
 18
 00:00:57,290 --> 00:01:01,640
-I'm just back from year 2042
+I'm just back from the year 2042.
 
 19
 00:01:00,320 --> 00:01:04,210
-at a time earth has been devastated
+Earth has been devastated...
 
 20
 00:01:01,640 --> 00:01:06,259
-By nuclear weapons
-What ?
+by nuclear weapons.
+What?
 
 21
 00:01:04,210 --> 00:01:07,369
-Yes, a technical bug 
+Yes, it is a technical bug
 
 22
 00:01:06,259 --> 00:01:09,890
-in computers chips
+in computer chips.
 
 23
 00:01:07,369 --> 00:01:11,869
-allowed North Corea to hack
+The bug allowed North Korea to hack into
 
 24
 00:01:09,890 --> 00:01:12,830
-Chineese nuclear system
+the Chinese nuclear system
 
 25
 00:01:11,869 --> 00:01:18,320
-(which was still running a pirated Windows XP)
+(Which, by the way, was still running a pirated Windows XP).
 
 26
 00:01:12,830 --> 00:01:20,539
-and in 2022, BOOM!
+In 2022, Earth went BOOM!
 
 27
 00:01:18,320 --> 00:01:21,200
-At this time, Trump (just being re-elected) decided to hit back
+In 2022, Trump (just being re-elected) decided to hit back.
 
 28
 00:01:20,539 --> 00:01:24,530
-and Poutine ...
+And POW! ...
 
 29
 00:01:21,200 --> 00:01:25,070
-anyway, there's nothing left
+Anyway, there's nothing left.
 
 30
 00:01:24,530 --> 00:01:26,869
-What can we do ?
+What can we do?
 
 31
 00:01:25,070 --> 00:01:28,429
-Need to fix this problem from source
+We need to fix this problem in the original source.
 
 32
 00:01:26,869 --> 00:01:31,220
-prevent this bug being introduced in processors
+We need to prevent this bug from being introduced in processors.
 
 33
 00:01:28,429 --> 00:01:33,950
-How ?
+How?
 
 34
 00:01:31,220 --> 00:01:36,259
-This bug has been introduced in 1988
-
+This bug was introduced in 1988.
 
 35
 00:01:33,950 --> 00:01:37,820
-In 1988 !?
+In 1988!?
 
 36
 00:01:36,259 --> 00:01:39,829
-Yes, due to backward compatibility
-
+Yes, due to backward compatibility.
 
 37
 00:01:37,820 --> 00:01:41,329
-this implementation detail
+This implementation detail
 
 38
 00:01:39,829 --> 00:01:43,820
@@ -144,123 +140,123 @@ The hardware architect, who introduced the bug by mistake,
 
 40
 00:01:43,820 --> 00:01:47,119
-was working on this topic
+was working on this project
 
 41
 00:01:45,049 --> 00:01:49,009
-in 1988 
+Way back in 1988.
 
 42
 00:01:47,119 --> 00:01:51,740
-and this when we need to act
-You're the Doc, Doc
+and this is the year we need to go back to.
+You're the doc, Doc.
 
 43
 00:01:49,009 --> 00:01:53,210
-Where can we find this "architect" ?
+Where can we find this "architect"?
 
 44
 00:01:51,740 --> 00:01:53,799
-He made a lecture at BreizhCamp
+He gave a lecture at BreizhCamp,
 
 45
 00:01:53,210 --> 00:01:56,780
-not far away
+not far away from us.
 
 46
 00:01:53,799 --> 00:01:58,100
-hum, not far in space, but
+Hum, not far in space, but
 
 47
 00:01:56,780 --> 00:01:59,750
-in time it was 30 years ago
+in time it was 30 years ago.
 
 48
 00:01:58,100 --> 00:02:00,680
-anyway, distances 
+Anyway, distances
 
 49
 00:01:59,750 --> 00:02:01,490
-in space-time continuum
+in the space-time continuum
 
 50
 00:02:00,680 --> 00:02:03,799
-are very abstract concepts
+are very abstract concepts.
 
 51
 00:02:01,490 --> 00:02:06,890
-As you say so, Doc. 
+As you say so, Doc.
 
 52
 00:02:03,799 --> 00:02:09,950
-Don't spend more time. 
+Let’s not spend any more time. Let’s go!
 
 53
 00:02:06,890 --> 00:02:13,010
-Put on these 80's closes, I remove this
+Put on these 80's clothes so we fit in. I’ll remove this.
 
 54
 00:02:09,950 --> 00:02:14,269
-hurry up ! 
+Hurry up!
 
 55
 00:02:13,010 --> 00:02:17,750
-We don't need to hurry actually
+We don't need to hurry, actually...
 
 56
 00:02:14,269 --> 00:02:20,870
-Bu not doing so, this movie would be so boring !
+But not doing so, would make this movie so boring!
 
 57
 00:02:17,750 --> 00:02:23,090
-Spate-time convector will
+The space-time converter will
 
 58
 00:02:20,870 --> 00:02:24,890
-get us back in 1988. I'm configuring it
+get us back to 1988. I'm configuring our arrival
 
 59
 00:02:23,090 --> 00:02:28,069
-to arrive on first day of BreizhCamp conference
+for the first day of that 1988 BreizhCamp conference.
 
 60
 00:02:24,890 --> 00:02:30,819
-on March 28th 1988
+We will arrive on March 28th 1988.
 
 61
 00:02:28,069 --> 00:02:33,500
-Let's put on our seatbelt !
+Let's put on our seatbelts!
 
 62
 00:02:30,819 --> 00:02:34,120
-No need for security Marty!
+No need for security, Marty!
 
 63
 00:02:33,500 --> 00:02:48,790
-Where we go we don't need root ! 
+where we we go, we don't need to be root!
 (road "route" in french == "root")
 
 64
 00:02:34,120 --> 00:02:50,510
-Hello
+Hello!
 
 65
 00:02:48,790 --> 00:02:54,680
-can I take your name for badges ?
+Can I take your names for badges?
 
 66
 00:02:50,510 --> 00:03:01,970
 Mar...
-Mark Zuckerberg ! and I'm Linus Torvalds
+He's Mark Zuckerberg! and I'm Linus Torvalds.
 
 67
 00:02:54,680 --> 00:03:03,280
-ok, please 50 francs for entrance
+Ok, 50 francs please, for entrance.
 
 68
 00:03:01,970 --> 00:03:10,310
-Oups, seems I made a mistake with your name
-Never mind
+Oops, seems I made a mistake with your name.
+Never mind.
 
 69
 00:03:03,280 --> 00:03:11,420
@@ -268,15 +264,15 @@ How exciting, isn't it ?
 
 70
 00:03:10,310 --> 00:03:12,349
-Let's check this place,
+Let's check this session,
 
 71
 00:03:11,420 --> 00:03:15,590
-we'll be here in two minutes
+we'll be here in two minutes.
 
 72
 00:03:12,349 --> 00:03:18,530
-Waou, that's high définition !
+WOW, that's high définition!
 
 73
 00:03:15,590 --> 00:03:21,859
@@ -284,78 +280,78 @@ Yes indeed, it's Super VGA,
 
 74
 00:03:18,530 --> 00:03:23,750
-up to 1024x768 with 16 colours 
+up to 1024x768 with 16 colours.
 
 75
 00:03:21,859 --> 00:03:26,959
-It's perfect match for a graphic workstation
+It's a perfect match for a graphics workstation.
 
 76
 00:03:23,750 --> 00:03:30,290
-Is it free ?
-hum, not really...
+Is it free?
+Hum, not really...
 
 77
 00:03:26,959 --> 00:03:32,000
-Hello sir ! 
+Hello sir!
 
 78
 00:03:30,290 --> 00:03:33,350
-Are you a developer ?
-What ?
+Are you a developer?
+What?
 
 79
 00:03:32,000 --> 00:03:35,209
-Do you know our development environment
+Do you know our development environment?
 
 80
 00:03:33,350 --> 00:03:37,010
-DosDEV ?
+DosDEV.
 
 81
 00:03:35,209 --> 00:03:39,709
-It's a highly productive environnement
+It's a highly productive environnement,
 
 82
 00:03:37,010 --> 00:03:41,610
-up to 10 time faster 
+up to 10 times faster
 
 83
 00:03:39,709 --> 00:03:43,740
-than what you've been used to
+than what you've been used to.
 
 84
 00:03:41,610 --> 00:03:45,140
-I give you the brochure
+I’ll give you the brochure.
 
 85
 00:03:43,740 --> 00:03:47,160
-don't hesitate to give it a try
+Don't hesitate to give it a try.
 
 86
 00:03:45,140 --> 00:03:55,290
-OMG, one did crazy things in 80's
+OMG, one did crazy things in 80's.
 
 87
 00:03:47,160 --> 00:03:57,450
-F***, this game is a piece of shit !
+F***, this game is a piece of shit!
 
 88
 00:03:55,290 --> 00:03:59,970
-Seem they where drunk or drugged coding it 
+Seems they were drunk or drugged when coding it!
 
 89
 00:03:57,450 --> 00:04:08,459
-I'll become crazy with it
+I'll go crazy trying to use it,
 
 90
 00:03:59,970 --> 00:04:09,740
-or maybe an angry video game nerd?
+or maybe become an angry video game nerd?
 
 91
 00:04:08,459 --> 00:04:11,790
 McFly !!!
-did you fix the Street Fighter arcade in the cafetaria ?
+Did you fix the Street Fighter arcade in the cafeteria?
 
 92
 00:04:09,740 --> 00:04:13,110
@@ -363,7 +359,7 @@ Not yet Biff, that's a complex job you know ...
 
 93
 00:04:11,790 --> 00:04:14,760
-as you overthrow Coke on it ...
+as you throw Coke on it...
 
 94
 00:04:13,110 --> 00:04:16,140
@@ -375,30 +371,30 @@ to train for the challenge
 
 96
 00:04:16,140 --> 00:04:24,000
-if you don't fix the arcade ?
+if you don't fix the arcade?
 I'll do it today, I promise.
 
 97
 00:04:18,060 --> 00:04:25,800
-... Dad is a Nerd !
-Hey Marty, here you are
+... Dad is a Nerd!
+Hey Marty, there you are.
 
 98
 00:04:24,000 --> 00:04:27,540
-Sorry for that, would prefer you don't see him
+Sorry for that, would prefer you don't see him.
 
 99
 00:04:25,800 --> 00:04:29,060
-but you know, in 2018
+But you know, in 2018,
 
 100
 00:04:27,540 --> 00:04:31,770
-beeing a geek will be cool ... surprisingly
+being a geek will be cool...surprisingly.
 
 101
 00:04:29,060 --> 00:04:35,280
-If you say so, Doc
-Let's go
+If you say so, Doc.
+Let's go!
 
 102
 00:04:31,770 --> 00:04:37,260
@@ -410,23 +406,23 @@ and unified cache we will get
 
 104
 00:04:37,260 --> 00:04:43,610
-80x386 architecture way beyong
+80x386 architecture way beyond
 
 105
 00:04:41,220 --> 00:04:54,000
-it's initial capacity
+it's initial capacity.
 
 106
 00:04:43,610 --> 00:04:55,890
-We get execution speed moslty doubled !
+We get execution speed almost doubled!
 
 107
 00:04:54,000 --> 00:04:58,410
-Come and ask him any questions
+Come and ask him questions, to distract him,
 
 108
 00:04:55,890 --> 00:04:59,880
-while I'm fixing his documents
+while I'm fixing his documents.
 
 109
 00:04:58,410 --> 00:05:01,680
@@ -434,32 +430,31 @@ Hello, interesting lecture. I wonder ...
 
 110
 00:04:59,880 --> 00:05:04,950
-how far will you get this new generation
+how far will you get this new generation?
 
 111
 00:05:01,680 --> 00:05:07,110
-what's its execution frequency ?
+What's its execution frequency?
 
 112
 00:05:04,950 --> 00:05:11,190
-25 MHz ! and we even have in labs
+25 MHz! And we even have a 33 MHz prototype in the lab.
 
 113
 00:05:07,110 --> 00:05:14,490
-a 33 MHz prototype
-interesting ... 
+Interesting...
 
 114
 00:05:11,190 --> 00:05:15,360
-And with 8 ko integrated cache 
+And with 8 ko integrated cache,
 
 115
 00:05:14,490 --> 00:05:17,250
-and a 32 bits communication bus
+and a 32 bit communication bus,
 
 116
 00:05:15,360 --> 00:05:20,110
-we will have access to huge resources
+we will have access to huge resources!
 
 117
 00:05:17,250 --> 00:05:21,520
@@ -467,11 +462,11 @@ Imagine:
 
 118
 00:05:20,110 --> 00:05:26,140
-We could even go beyong the 640k limit :)
+We could even go beyond the 640k limit! :)
 
 119
 00:05:21,520 --> 00:05:27,880
-but .. what about heat ?
+but...what about heat?
 
 120
 00:05:26,140 --> 00:05:30,220
@@ -479,28 +474,28 @@ You're right, with incredibly fine engraving
 
 121
 00:05:27,880 --> 00:05:32,560
-at only 1 micron, this becomes an issue
+at only 1 micron, this becomes an issue.
 
 122
 00:05:30,220 --> 00:05:36,860
-We are looking for workarounds
+We are looking for workarounds.
 
 123
 00:05:32,560 --> 00:05:41,840
-maybe will need a heat dissipator
-oh right, thanks
+Maybe we will need a heat dissipator.
+Oh right, thanks.
 
 124
 00:05:36,860 --> 00:05:44,090
-I'm done Marty, we can leave
+I'm done Marty, we can leave.
 
 125
 00:05:41,840 --> 00:05:45,590
-McFly, McFly what's the hell are you doing. Learn programming ?
+McFly, McFly what's the hell are you doing. Learn programming?
 
 126
 00:05:44,090 --> 00:05:49,000
-Not fixing the Arcade ?
+You’re not fixing the Arcade?
 
 127
 00:05:45,590 --> 00:05:50,539
@@ -508,7 +503,7 @@ But you know ...
 
 128
 00:05:49,000 --> 00:05:52,550
-Hope we haven't altered the space-time continuum
+I hope we haven't altered the space-time continuum.
 
 129
 00:05:50,539 --> 00:05:54,289
@@ -517,7 +512,7 @@ Think, McFly. Think!
 
 130
 00:05:52,550 --> 00:05:55,430
-Do you realize what would happen 
+Do you realize what will happen,
 
 131
 00:05:54,289 --> 00:05:56,870
@@ -525,41 +520,40 @@ if I start the challenge
 
 132
 00:05:55,430 --> 00:05:58,580
-without being trained enough ? Want me to be a looser ?
+without being trained enough? Want me to be a loser?
 
 133
 00:05:56,870 --> 00:06:00,650
-Want me to be look like an idiot during challenge ? 
+Want me to be look like an idiot during the challenge?
 
 134
 00:05:58,580 --> 00:06:01,909
-Is it what you're looking for ?
-Of course not, Biff 
+Is that what you're looking for?
+Of course not, Biff.
 
 135
 00:06:00,650 --> 00:06:04,430
-now I wouldn't want that to happen.
+No, I wouldn't want that to happen.
 
 136
 00:06:01,909 --> 00:06:07,490
-Hey sir, you left this on the floor
+Hey sir, you left this on the floor.
 
 137
 00:06:04,430 --> 00:06:10,279
 Oh thanks.
-Great game, you'll get lot's of fun with it
+Great game, you'll  have lots of fun with it.
 
 138
 00:06:07,490 --> 00:06:11,810
-Hey McFly, I'll train on this one
+Hey McFly, I'll train with this one, while
 
 139
 00:06:10,279 --> 00:06:13,240
-waiting for you to fix the arcade
+I wait for you to fix the arcade.
 
 140
 00:06:11,810 --> 00:06:16,699
-
 
 141
 00:06:13,240 --> 00:06:19,639
@@ -567,7 +561,7 @@ I'll work on it first thing tomorrow, alright?
 
 142
 00:06:16,699 --> 00:06:22,810
-Oh, McFly, your shoe's untied. 
+Oh, McFly, your shoe's untied.
 
 143
 00:06:19,639 --> 00:06:22,810
@@ -579,10 +573,10 @@ Tell me Doc, this Intel Architect
 
 145
 00:06:25,310 --> 00:06:36,710
-How did you know it was speaking at BreizhCamp ?
-Matry,
+How did you know he was speaking at BreizhCamp?
+Marty,
 
 146
 00:06:27,380 --> 00:06:38,030
-Best speakers all come to BreizhCamp !
+All the best speakers come to BreizhCamp!
 
