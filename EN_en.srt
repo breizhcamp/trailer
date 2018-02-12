@@ -31,7 +31,7 @@ This one can drive up to 120 km.
 
 13
 00:00:46,790 --> 00:00:52,670
-it's way fast enough when one travels...in time !
+it's way enough when one travels...in time !
 
 14
 00:00:48,530 --> 00:00:54,170
@@ -272,7 +272,7 @@ we'll be here in two minutes.
 
 72
 00:03:12,349 --> 00:03:18,530
-WOW, that's high définition!
+WOW, that's high definition!
 
 73
 00:03:15,590 --> 00:03:21,859
@@ -359,7 +359,7 @@ Not yet Biff, that's a complex job you know ...
 
 93
 00:04:11,790 --> 00:04:14,760
-as you throw Coke on it...
+as you threw Coke on it...
 
 94
 00:04:13,110 --> 00:04:16,140
@@ -491,7 +491,7 @@ I'm done Marty, we can leave.
 
 125
 00:05:41,840 --> 00:05:45,590
-McFly, McFly what's the hell are you doing. Learn programming?
+McFly, McFly what the hell are you doing. Learn programming?
 
 126
 00:05:44,090 --> 00:05:49,000
