@@ -1,0 +1,579 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<detx copyright="Chinkel S.A., 2007-2018">
+
+  <header>
+    <cappella version="3.7.0"/>
+    <videofile timestamp="00:00:00:00">/Users/nicolas/VirtualBox VMs/winshared/BreizhCamp's eleven.mov</videofile>
+    <last_position timecode="00:06:30:04" track="1"/>
+  </header>
+
+  <roles>
+    <role color="#000000" description="" id="auditeur_1" name="Auditeur_1"/>
+    <role color="#000000" description="" id="auditeur_2" name="Auditeur_2"/>
+    <role color="#002FA7" description="" id="danny" name="Danny"/>
+    <role color="#002FA7" description="" id="linus" name="Linus"/>
+    <role color="#002FA7" description="" id="reuben" name="Reuben"/>
+    <role color="#002FA7" description="" id="rusty" name="Rusty"/>
+    <role color="#002FA7" description="" id="saul" name="Saul"/>
+  </roles>
+
+  <body>
+    <line role="auditeur_1" track="0">
+      <lipsync timecode="00:00:39:03" type="in_open"/>
+      <lipsync link="off" timecode="00:00:39:05" type="out_open"/>
+      <text>Bonjour</text>
+    </line>
+    <line role="danny" track="1">
+      <lipsync timecode="00:00:40:09" type="in_open"/>
+      <lipsync link="off" timecode="00:00:40:20" type="out_open"/>
+      <text>Bonjour</text>
+    </line>
+    <line role="auditeur_1" track="0">
+      <lipsync timecode="00:00:41:00" type="in_open"/>
+      <lipsync link="off" timecode="00:00:43:05 " type="out_open"/>
+      <text>Veuillez décliner votre identité pour l’enregistrement</text>
+    </line>
+    <line role="danny" track="0">
+      <lipsync timecode="00:00:43:14" type="in_open"/>
+      <text>Nicolas De Loof</text>
+      <lipsync timecode="00:00:44:10" type="out_open"/>
+    </line>
+    <line role="auditeur_1" track="0">
+      <lipsync timecode="00:00:44:21" type="in_open"/>
+      <lipsync link="off" timecode="00:00:45:06" type="out_open"/>
+      <text>Merci</text>
+    </line>
+    <line role="auditeur_1" track="0">
+      <lipsync timecode="00:00:46:05" type="in_open"/>
+      <lipsync link="off" timecode="00:00:52:02" type="out_open"/>
+      <text>Mr De loof, le but de cette audience est de déterminer si, une fois libéré, vous risqueriez à nouveau d'enfreindre les règles.</text>
+    </line>
+    <line role="auditeur_1" track="0">
+      <lipsync timecode="00:00:52:17" type="in_open"/>
+      <lipsync link="off" timecode="00:00:57:18" type="out_open"/>
+      <text>Vous avez été impliqué, sans toutefois être inculpé, dans plus de 8 autres affaires de surbooking à la conférence. </text>
+    </line>
+    <line role="auditeur_1" track="0">
+      <lipsync timecode="00:00:59:13" type="in_open"/>
+      <lipsync link="off" timecode="00:01:00:21" type="out_open"/>
+      <text>Qu’avez-vous à déclarer à ce sujet ?</text>
+    </line>
+    <line role="danny" track="0">
+      <lipsync timecode="00:01:02:19" type="in_open"/>
+      <lipsync link="off" timecode="00:01:05:04" type="out_open"/>
+      <text>Comme vous venez de le dire Madame, on ne m’a jamais inculpé</text>
+    </line>
+    <line role="auditeur_2" track="0">
+      <lipsync timecode="00:01:06:14" type="in_open"/>
+      <lipsync link="off" timecode="00:01:05:24" type="out_open"/>
+      <text>Mr De loof, nous aimerions comprendre une chose: y’a t-il une raison pour laquelle vous avez commis ces transgressions ? </text>
+    </line>
+    <line role="danny" track="0">
+      <lipsync timecode="00:01:14:17" type="in_open"/>
+      <lipsync link="off" timecode="00:01:19:14" type="out_open"/>
+      <text>Toute l’équipe m’a soutenu; ça m’a perturbé; je suis rentré dans une spirale auto-destructrice</text>
+    </line>
+    <line role="auditeur_1" track="0">
+      <lipsync timecode="00:01:20:08" type="in_open"/>
+      <lipsync link="off" timecode="00:01:23:14" type="out_open"/>
+      <text>Si on vous libère, risquez vous de tomber dans une spirale similaire ?</text>
+    </line>
+    <line role="danny" track="0">
+      <lipsync timecode="00:01:25:01" type="in_open"/>
+      <lipsync link="off" timecode="00:01:28:15" type="out_open"/>
+      <text>L’équipe s’est trompée sur mon compte une fois, je les vois mal recommencer pour le plaisir</text>
+    </line>
+    <line role="auditeur_2" track="0">
+      <lipsync timecode="00:01:29:23" type="in_open"/>
+      <lipsync link="off" timecode="00:01:33:11" type="out_open"/>
+      <text>Mr De loof, que pensez vous que vous pourriez faire si on vous libérait ?</text>
+    </line>
+    <line role="rusty" track="1">
+      <lipsync timecode="00:01:36:18" type="in_open"/>
+      <text>Alors vas-y raconte.</text>
+      <lipsync timecode="00:01:37:13" type="out_open"/>
+    </line>
+    <line role="danny" track="0">
+      <lipsync timecode="00:01:38:04" type="in_open"/>
+      <text>Ce sera coton.</text>
+      <lipsync timecode="00:01:39:00" type="out_open"/>
+    </line>
+    <line role="danny" track="0">
+      <lipsync timecode="00:01:39:09" type="in_open"/>
+      <lipsync link="off" timecode="00:01:40:22" type="out_open"/>
+      <text>ce sera vraiment une première.</text>
+    </line>
+    <line role="danny" track="0">
+      <lipsync timecode="00:01:41:02" type="in_open"/>
+      <lipsync link="off" timecode="00:01:43:10" type="out_open"/>
+      <text>On sera préparés, et on sera nombreux.</text>
+    </line>
+    <line role="rusty" track="1">
+      <lipsync timecode="00:01:44:08" type="in_open"/>
+      <lipsync link="off" timecode="00:01:45:02" type="out_open"/>
+      <text>La cible, c’est quoi ?</text>
+    </line>
+    <line role="danny" track="0">
+      <lipsync timecode="00:01:46:11" type="in_open"/>
+      <lipsync link="off" timecode="00:01:47:08" type="out_open"/>
+      <text>4 chiffres</text>
+    </line>
+    <line role="rusty" track="1">
+      <lipsync timecode="00:01:48:03" type="in_open"/>
+      <lipsync link="off" timecode="00:01:48:21" type="out_open"/>
+      <text>La cible, c’est quoi ?</text>
+    </line>
+    <line role="danny" track="0">
+      <lipsync timecode="00:01:49:01" type="in_open"/>
+      <lipsync link="off" timecode="00:01:50:06" type="out_open"/>
+      <text>Depuis quand t’a pas vu le centre ville ?</text>
+    </line>
+    <line role="rusty" track="1">
+      <lipsync timecode="00:01:51:01" type="in_open"/>
+      <lipsync link="off" timecode="00:01:52:14" type="out_open"/>
+      <text>Quoi, tu veux qu’on augmente encore ?</text>
+    </line>
+    <line role="rusty" track="1">
+      <lipsync timecode="00:01:59:10" type="in_open"/>
+      <lipsync link="off" timecode="00:01:59:24" type="out_open"/>
+      <text>oh oh oh</text>
+    </line>
+    <line role="danny" track="0">
+      <lipsync timecode="00:02:06:08" type="in_open"/>
+      <lipsync link="off" timecode="00:02:07:12" type="out_open"/>
+      <text>Le grand Auditorium.</text>
+    </line>
+    <line role="rusty" track="1">
+      <lipsync timecode="00:02:08:24" type="in_open"/>
+      <lipsync link="off" timecode="00:02:09:10" type="out_open"/>
+      <text>hum</text>
+    </line>
+    <line role="rusty" track="1">
+      <lipsync timecode="00:02:10:11" type="in_open"/>
+      <lipsync link="off" timecode="00:02:11:07" type="out_open"/>
+      <text>ouf</text>
+    </line>
+    <line role="rusty" track="1">
+      <lipsync timecode="00:02:12:20" type="in_open"/>
+      <lipsync link="off" timecode="00:02:13:02" type="out_open"/>
+      <text>bon</text>
+    </line>
+    <line role="rusty" track="1">
+      <lipsync timecode="00:02:13:14" type="in_open"/>
+      <lipsync link="off" timecode="00:02:20:02" type="out_open"/>
+      <text>si je lis ça correctement, et j’aime à croire que c’est le cas,    c’est probablement le lieu le moins accessible sur Rennes.</text>
+    </line>
+    <line role="danny" track="0">
+      <lipsync timecode="00:02:20:07" type="in_open"/>
+      <lipsync link="off" timecode="00:02:20:17" type="out_open"/>
+      <text>ouaip</text>
+    </line>
+    <line role="rusty" track="1">
+      <lipsync timecode="00:02:22:21" type="in_open"/>
+      <lipsync link="off" timecode="00:02:23:19" type="out_open"/>
+      <text>t’avais dit trois cent ?</text>
+    </line>
+    <line role="danny" track="0">
+      <lipsync timecode="00:02:24:09" type="in_open"/>
+      <lipsync link="off" timecode="00:02:29:06" type="out_open"/>
+      <text>ça file droit dans le hall, et le carré peut faire deux fois 300, mais chaque niveau accède en bas. </text>
+    </line>
+    <line role="rusty" track="1">
+      <lipsync timecode="00:02:31:05" type="in_open"/>
+      <lipsync link="off" timecode="00:02:32:22" type="out_open"/>
+      <text>l’Auditorium et le Carré</text>
+    </line>
+    <line role="rusty" track="1">
+      <lipsync timecode="00:02:34:04" type="in_open"/>
+      <lipsync link="off" timecode="00:02:35:12" type="out_open"/>
+       <text>ce ne sont plus les locaux de la Fac</text>
+    </line>
+    <line role="danny" track="0">
+      <lipsync timecode="00:02:36:00" type="in_open"/>
+      <lipsync link="off" timecode="00:02:36:20" type="out_open"/>
+      <text>ouais, c’est ça.</text>
+    </line>
+    <line role="rusty" track="1">
+      <lipsync timecode="00:02:37:07" type="in_open"/>
+      <lipsync link="off" timecode="00:02:38:00" type="out_open"/>
+      <text>ohhhh</text>
+    </line>
+    <line role="danny" track="0">
+      <lipsync timecode="00:02:38:01" type="in_open"/>
+      <lipsync link="off" timecode="00:02:39:02" type="out_open"/>
+      <text>ils vont nous en vouloir ?</text>
+    </line>
+    <line role="rusty" track="1">
+      <lipsync timecode="00:02:39:20" type="in_open"/>
+      <lipsync link="off" timecode="00:02:40:14" type="out_open"/>
+      <text>Oui, c’est possible oui.</text>
+    </line>
+    <line role="rusty" track="1">
+      <lipsync timecode="00:02:41:14" type="in_open"/>
+      <lipsync link="off" timecode="00:02:43:04" type="out_open"/>
+      <text>Mais comment tu espères financer ça ?</text>
+    </line>
+    <line role="danny" track="0">
+      <lipsync timecode="00:02:44:13" type="in_open"/>
+      <text>Si on arrive à mille, on l’aura le financement.</text>
+      <lipsync timecode="00:02:47:00" type="out_open"/>
+    </line>
+    <line role="danny" track="0" type="reac">
+      <lipsync timecode="00:02:47:19" type="in_open"/>
+      <text>Ou alors une longue liste de sponsors.</text>
+      <lipsync timecode="00:02:50:00" type="out_open"/>
+    </line>
+    <line role="rusty" track="1">
+      <lipsync timecode="00:02:50:08" type="in_open"/>
+      <lipsync link="off" timecode="00:02:52:23" type="out_open"/>
+      <text>Oui mais des sponsors pleins aux as qui n’auraient rien à perdre.</text>
+    </line>
+    <line role="rusty" track="1">
+      <lipsync timecode="00:02:54:23" type="in_open"/>
+      <lipsync link="off" timecode="00:02:56:09" type="out_open"/>
+      <text>Ahhh…</text>
+    </line>
+    <line role="reuben" track="2">
+      <lipsync timecode="00:02:57:12" type="in_open"/>
+      <lipsync link="off" timecode="00:03:02:15" type="out_open"/>
+      <text>vous êtes des pros tous les deux, les meilleurs. Je suis persuadé que vous vendrez vos mille places</text>
+    </line>
+    <line role="reuben" track="2">
+      <lipsync timecode="00:03:03:07" type="in_open"/>
+      <lipsync link="off" timecode="00:03:05:10" type="out_open"/>
+      <text>Mais je vous rappelle, sans vous offenser</text>
+    </line>
+    <line role="reuben" track="2">
+      <lipsync timecode="00:03:05:19" type="in_open"/>
+      <lipsync link="off" timecode="00:03:09:14" type="out_open"/>
+      <text>qu’une fois que vous aurez soldé la billetterie, vous serez encore dans ce foutu patelin Rennais !</text>
+    </line>
+    <line role="rusty" track="1">
+      <lipsync timecode="00:03:11:20" type="in_open"/>
+      <lipsync link="off" timecode="00:03:12:23" type="out_open"/>
+      <text>C’est vrai, y'a du vrai</text>
+    </line>
+    <line role="danny" track="0">
+      <lipsync timecode="00:03:12:24" type="in_open"/>
+      <lipsync link="off" timecode="00:03:15:20" type="out_open"/>
+      <text>Oh c’est tout à fait vrai, on a eu les yeux plus gros que le ventre  </text>
+    </line>
+    <line role="rusty" track="1">
+      <lipsync timecode="00:03:15:24" type="in_open"/>
+      <lipsync link="off" timecode="00:03:17:18" type="out_open"/>
+      <text>bein oui voilà c’est ça c’est une pure affaire d’égo</text>
+    </line>
+    <line role="reuben" track="2">
+      <lipsync timecode="00:03:17:20" type="in_open"/>
+      <lipsync link="off" timecode="00:03:19:00" type="out_open"/>
+      <text>Oui oui oui, bla bla bla bla bla, </text>
+    </line>
+    <line role="danny" track="0">
+      <lipsync timecode="00:03:19:01" type="in_open"/>
+      <lipsync link="off" timecode="00:03:19:13" type="out_open"/>
+      <text>Merci bien</text>
+    </line>
+    <line role="rusty" track="1">
+      <lipsync timecode="00:03:20:08" type="in_open"/>
+      <lipsync link="off" timecode="00:03:20:22" type="out_open"/>
+      <text>pour le déjeuner</text>
+    </line>
+    <line role="danny" track="0">
+      <lipsync timecode="00:03:21:07" type="in_open"/>
+      <lipsync link="off" timecode="00:03:22:10" type="out_open"/>
+      <text>Et pardon pour le dérangement</text>
+    </line>
+    <line role="reuben" track="2">
+      <lipsync timecode="00:03:22:21" type="in_open"/>
+      <lipsync link="off" timecode="00:03:27:10" type="out_open"/>
+      <text>Ecoutez, on est de vieux potes, et je vous en doit une pour le truc avec le machin dans le chose, et jamais j’oublierai ça</text>
+    </line>
+    <line role="danny" track="0">
+      <lipsync timecode="00:03:27:18" type="in_open"/>
+      <lipsync link="off" timecode="00:03:28:08" type="out_open"/>
+      <text>C’était de bon coeur</text>
+    </line>
+    <line role="reuben" track="2">
+      <lipsync timecode="00:03:30:13" type="in_open"/>
+      <lipsync link="off" timecode="00:03:35:17" type="out_open"/>
+      <text>Dernière question, siiiiiiiiiiiiimple curiosité: quelle endroit vous avez choisi d’occuper tas de petits génies ?</text>
+    </line>
+    <line role="rusty" track="1">
+      <lipsync timecode="00:03:37:02" type="in_open"/>
+      <lipsync link="off" timecode="00:03:37:19" type="out_open"/>
+      <text>La mezzanine .., </text>
+    </line>
+    <line role="danny" track="0">
+      <lipsync timecode="00:03:37:20" type="in_open"/>
+      <lipsync link="off" timecode="00:03:40:06" type="out_open"/>
+      <text>La mezzanine, le Carré et le grand Auditorium</text>
+    </line>
+    <line role="reuben" track="2">
+      <lipsync timecode="00:03:42:20" type="in_open"/>
+      <lipsync link="off" timecode="00:03:44:14" type="out_open"/>
+      <text>Ce sont les salles du  Couvent des Jacobins ?</text>
+    </line>
+    <line role="rusty" track="1">
+      <lipsync timecode="00:03:46:05" type="in_open"/>
+      <lipsync link="off" timecode="00:03:46:15" type="out_open"/>
+      <text>hein, c’est vrai ?</text>
+    </line>
+    <line role="danny" track="0">
+      <lipsync timecode="00:03:47:00" type="in_open"/>
+      <lipsync link="off" timecode="00:03:47:12" type="out_open"/>
+      <text>oui c’est vrai</text>
+    </line>
+    <line role="reuben" track="2">
+      <lipsync timecode="00:03:49:02" type="in_open"/>
+      <lipsync link="off" timecode="00:03:49:24" type="out_open"/>
+      <text>Hey les mecs</text>
+    </line>
+    <line role="reuben" track="2">
+      <lipsync timecode="00:03:52:01" type="in_open"/>
+      <lipsync link="off" timecode="00:03:53:20" type="out_open"/>
+      <text>vous voulez aller au Couvent des Jacobins ?</text>
+    </line>
+    <line role="danny" track="0">
+      <lipsync timecode="00:03:54:23" type="in_open"/>
+      <lipsync link="off" timecode="00:03:57:01" type="out_open"/>
+      <text>Est-ce que toi tu veux y aller, voilà la question.</text>
+    </line>
+    <line role="reuben" track="2">
+      <lipsync timecode="00:03:58:06" type="in_open"/>
+      <lipsync link="off" timecode="00:04:00:11" type="out_open"/>
+      <text>Je sais très bien ce que vous essayez de faire</text>
+    </line>
+    <line role="danny" track="0">
+      <lipsync timecode="00:04:01:07" type="in_open"/>
+      <lipsync link="off" timecode="00:04:04:08" type="out_open"/>
+      <text>C'est pour ça qu'il faut qu'on soit très prudents, très précis</text>
+    </line>
+    <line role="rusty" track="1">
+      <lipsync timecode="00:04:04:13" type="in_open"/>
+      <lipsync link="off" timecode="00:04:05:13" type="out_open"/>
+      <text>et très sponsorisés</text>
+    </line>
+    <line role="reuben" track="2">
+      <lipsync timecode="00:04:05:17" type="in_open"/>
+      <lipsync link="off" timecode="00:04:05:22" type="out_open"/>
+      <text>Oui</text>
+    </line>
+    <line role="reuben" track="2">
+      <lipsync timecode="00:04:07:04" type="in_open"/>
+      <lipsync link="off" timecode="00:04:08:16" type="out_open"/>
+      <text>il faut que vous soyez bargeots</text>
+    </line>
+    <line role="reuben" track="2">
+      <lipsync timecode="00:04:09:06" type="in_open"/>
+      <lipsync link="off" timecode="00:04:12:17" type="out_open"/>
+      <text>et il vous faut tout une équipe aussi dingue que vous l’êtes. </text>
+    </line>
+    <line role="danny" track="0">
+      <lipsync timecode="00:04:16:14" type="in_open"/>
+      <lipsync link="off" timecode="00:04:17:18" type="out_open"/>
+      <text>Avec Alex, ça fait 6</text>
+    </line>
+    <line role="danny" track="0">
+      <lipsync timecode="00:04:18:02" type="in_open"/>
+      <lipsync link="off" timecode="00:04:19:05" type="out_open"/>
+      <text>ça devrait être assez, t’es d’accord ?</text>
+    </line>
+    <line role="danny" track="0">
+      <lipsync timecode="00:04:21:18" type="in_open"/>
+      <lipsync link="off" timecode="00:04:22:19" type="out_open"/>
+      <text>Tu crois qu’il en faudrait un de plus ?</text>
+    </line>
+    <line role="danny" track="0">
+      <lipsync timecode="00:04:24:15" type="in_open"/>
+      <lipsync link="off" timecode="00:04:25:15" type="out_open"/>
+      <text>Tu crois qu’il en faudrait un de plus.</text>
+    </line>
+    <line role="danny" track="0">
+      <lipsync timecode="00:04:28:11" type="in_open"/>
+      <lipsync link="off" timecode="00:04:29:05" type="out_open"/>
+      <text>On en trouvera un de plus.</text>
+    </line>
+    <line role="danny" track="0">
+      <lipsync timecode="00:04:31:20" type="in_open"/>
+      <lipsync link="off" timecode="00:04:35:03" type="out_open"/>
+      <text>Messieurs, le centre des congrès de Rennes, connu sous le nom de “Couvent des Jacobins”.</text>
+    </line>
+    <line role="danny" track="0">
+      <lipsync timecode="00:04:35:08" type="in_open"/>
+      <lipsync link="off" timecode="00:04:37:14" type="out_open"/>
+      <text>Sur quatre niveau, c’est le plus grand espace de Rennes.</text>
+    </line>
+    <line role="danny" track="0">
+      <lipsync timecode="00:04:38:15" type="in_open"/>
+      <lipsync link="off" timecode="00:04:39:02" type="out_open"/>
+      <text>Voyons voir...</text>
+    </line>
+    <line role="danny" track="0">
+      <lipsync timecode="00:04:39:17" type="in_open"/>
+      <lipsync link="off" timecode="00:04:44:18" type="out_open"/>
+      <text>le grand Auditorium. Il est située sous l’ancien cloître, à 30 pieds sous la terre ferme. </text>
+    </line>
+    <line role="danny" track="0">
+      <lipsync timecode="00:04:44:04" type="in_open"/>
+      <lipsync link="off" timecode="00:04:46:25" type="out_open"/>
+      <text>Et on va y aller</text>
+    </line>
+    <line role="linus" track="2">
+      <lipsync timecode="00:04:47:12" type="in_open"/>
+      <lipsync link="off" timecode="00:04:48:17" type="out_open"/>
+      <text>on s’ammène et on s'y installe</text>
+    </line>
+    <line role="rusty" track="1">
+      <lipsync timecode="00:04:48:16" type="in_open"/>
+      <lipsync link="off" timecode="00:04:50:20" type="out_open"/>
+      <text>hummmmm non, c’est un tout petit plus compliqué que ça</text>
+    </line>
+    <line role="danny" track="0">
+      <lipsync timecode="00:04:51:16" type="in_open"/>
+      <lipsync link="off" timecode="00:04:52:10" type="out_open"/>
+      <text>cet espace</text>
+    </line>
+    <line role="danny" track="0">
+      <lipsync timecode="00:04:52:12" type="in_open"/>
+      <lipsync link="off" timecode="00:04:55:08" type="out_open"/>
+      <text>contrairement aux locaux de nos partenaire universitaires</text>
+    </line>
+    <line role="danny" track="0">
+      <lipsync timecode="00:04:55:23" type="in_open"/>
+      <lipsync link="off" timecode="00:04:57:08" type="out_open"/>
+      <text>ne nous est pas proposé gratuitement</text>
+    </line>
+    <line role="danny" track="0">
+      <lipsync timecode="00:04:58:17" type="in_open"/>
+      <lipsync link="off" timecode="00:05:00:09" type="out_open"/>
+      <text>Et les tarifs sont ceux d’un centre des congrès : </text>
+    </line>
+    <line role="danny" track="0">
+      <lipsync timecode="00:05:01:00" type="in_open"/>
+      <lipsync link="off" timecode="00:05:03:04" type="out_open"/>
+      <text>le moindre mètre carré est facturé en k-euros.</text>
+    </line>
+    <line role="danny" track="0">
+      <lipsync timecode="00:05:03:20" type="in_open"/>
+      <lipsync link="off" timecode="00:05:09:07" type="out_open"/>
+      <text>D’abord il va falloir entrer dans les caisses des sponsors et vous savez que pour ça un sourire ne suffit pas.</text>
+      </line>
+    <line role="danny" track="0">
+      <lipsync timecode="00:05:09:13" type="in_open"/>
+      <lipsync link="off" timecode="00:05:11:06" type="out_open"/>
+      <text>Il faudra ouvrir les portes en grand, </text>
+    </line>
+    <line role="danny" track="0">
+      <lipsync timecode="00:05:11:20" type="in_open"/>
+      <lipsync link="off" timecode="00:05:14:20" type="out_open"/>
+      <text>avec un tarif de billetterie qui reste abordable. Il faudra trouver des prestataires</text>
+    </line>
+    <line role="rusty" track="1">
+      <lipsync timecode="00:05:14:20" type="in_open"/>
+      <lipsync link="off" timecode="00:05:15:23" type="out_open"/>
+      <text>Des prestataires référencés </text>
+    </line>
+    <line role="danny" track="0">
+      <lipsync timecode="00:05:16:04" type="in_open"/>
+      <lipsync link="off" timecode="00:05:18:23" type="out_open"/>
+      <text>Et faire de la place aux sponsors dans les espaces alloués</text>
+    </line>
+    <line role="rusty" track="1">
+      <lipsync timecode="00:05:18:23" type="in_open"/>
+      <lipsync link="off" timecode="00:05:20:04" type="out_open"/>
+      <text>Des sponsors plus nombreux</text>
+    </line>
+    <line role="danny" track="0">
+      <lipsync timecode="00:05:20:19" type="in_open"/>
+      <lipsync link="off" timecode="00:05:23:12" type="out_open"/>
+      <text>Mais une fois qu’on sera dans la place, ce sera une partie de plaisir.</text>
+    </line>
+    <line role="rusty" track="1">
+      <lipsync timecode="00:05:23:24" type="in_open"/>
+      <lipsync link="off" timecode="00:05:27:20" type="out_open"/>
+      <text>Rien que deux journées de conférence-marathon et l’événement technologique le plus barré jamais mis au point.</text>
+    </line>
+    <line role="danny" track="0">
+      <lipsync timecode="00:05:27:21" type="in_open"/>
+      <lipsync link="off" timecode="00:05:28:24" type="out_open"/>
+      <text>il y’a des questions ? </text>
+    </line>
+    <line role="linus" track="1">
+      <lipsync timecode="00:05:30:11" type="in_open"/>
+      <lipsync link="off" timecode="00:05:31:17" type="out_open"/>
+      <text>y’a des bonnes nouvelles ?</text>
+    </line>
+    <line role="danny" track="0">
+      <lipsync timecode="00:05:32:15" type="in_open"/>
+      <lipsync link="off" timecode="00:05:37:15" type="out_open"/>
+      <text>Les salles font entre 40 et 100 mais peuvent se regrouper à 150 places.</text>
+    </line>
+    <line role="danny" track="0">
+      <lipsync timecode="00:05:38:04" type="in_open"/>
+      <lipsync link="off" timecode="00:05:41:10" type="out_open"/>
+      <text>Le carré peut être coupé en deux salles de 200 et 300 places.</text>
+    </line>
+    <line role="danny" track="0">
+      <lipsync timecode="00:05:41:22" type="in_open"/>
+      <lipsync link="off" timecode="00:05:45:10" type="out_open"/>
+      <text>Et le grand Auditorium permet d’accueillir 800 personne dans sa configuration de base.</text>
+    </line>
+    <line role="danny" track="0">
+      <lipsync timecode="00:05:45:21" type="in_open"/>
+      <lipsync link="off" timecode="00:05:51:06" type="out_open"/>
+      <text>Mais les grand soirs il peut être étendu à 1200 places. Soit 6 fois la capacité d’accueil de la première édition du BreizhCamp. </text>
+    </line>
+    <line role="saul" track="1">
+      <lipsync timecode="00:05:54:02" type="in_open"/>
+      <lipsync link="off" timecode="00:05:59:10" type="out_open"/>
+      <text>et ... j’ai une question: disons qu’on trouve une date disponible, qu’on trouve un traiteur pour couvrir l’événement</text>
+    </line>
+    <line role="saul" track="1">
+      <lipsync timecode="00:06:00:10" type="in_open"/>
+      <lipsync link="off" timecode="00:06:01:11" type="out_open"/>
+      <text>que les sponsors nous suivent,</text>
+    </line>
+    <line role="saul" track="1">
+      <lipsync timecode="00:06:02:02" type="in_open"/>
+      <lipsync link="off" timecode="00:06:01:11" type="out_open"/>
+      <text>qu’on ait le matériel pour équiper le hall,    </text>
+    </line>
+    <line role="rusty" track="0">
+      <lipsync timecode="00:06:03:19" type="in_open"/>
+      <lipsync link="off" timecode="00:06:04:23" type="out_open"/>
+      <text>sans être retoqués par la sécurité, </text>
+    </line>
+    <line role="danny" track="1">
+      <lipsync timecode="00:06:05:03" type="in_open"/>
+      <lipsync link="off" timecode="00:06:07:00" type="out_open"/>
+      <text>ah oui c'est vrai désolé, j’ai oublié de parler de ça</text>
+    </line>
+    <shot timecode="00:06:10:23"/>
+    <line role="saul" track="1">
+      <lipsync timecode="00:06:08:07" type="in_open"/>
+      <lipsync link="off" timecode="00:06:09:22" type="out_open"/>
+      <text>enfin, disons qu’on fasse tout ça. </text> 
+    </line>  
+    <line role="saul" track="1">
+      <lipsync timecode="00:06:10:20" type="in_open"/>
+      <lipsync link="off" timecode="00:06:16:19" type="out_open"/>
+      <text>Tu penses vraiment qu’on puisse sortir plus de 1000 et quelques places comme ça, tout seuls sans que personne nous pistonne ?</text>
+    </line>
+    <line role="danny" track="0">
+      <lipsync timecode="00:06:22:20" type="in_open"/>
+      <lipsync link="off" timecode="00:06:23:02" type="out_open"/>
+      <text>Oui !</text>
+    </line>
+    <line role="saul" track="1">
+      <lipsync timecode="00:06:26:06" type="in_open"/>
+      <lipsync link="off" timecode="00:06:26:15" type="out_open"/>
+      <text>Ah...</text>
+    </line>
+    <line role="saul" track="1">
+      <lipsync timecode="00:06:28:11" type="in_open"/>
+      <text>Bien...</text>
+      <lipsync timecode="00:06:28:20" type="out_open"/>
+    </line>
+  </body>
+
+</detx>
